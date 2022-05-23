@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73e7648e-93f7-4369-92de-75849963ca00": {
+      "ProjectGuid": "73e7648e-93f7-4369-92de-75849963ca00",
+      "DisplayName": "ScanBarCodeWinCE",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
